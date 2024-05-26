@@ -249,7 +249,7 @@ span {
 
 .box-img img{
     width: 350px;
-    height: auto;
+    height: 450px;
     margin-bottom: 1.2rem;
     transition: all .45s ease;
 }
